@@ -1,0 +1,19 @@
+france
+france2
+australia
+australia2
+canada
+canada2
+england
+england2
+germany
+germany2
+china
+korea
+spain
+italia
+united states
+brasil
+russia
+japan
+new zealand
